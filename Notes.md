@@ -11,3 +11,4 @@
 ## Anotações GitHub
 - Repositório online de código
 - Para o README.md [Guia Markdown](https://www.markdownguide.org/basic-syntax/ "Markdownguide") 
+- Preview do texto em Markdown [Markdown Live Preview](https://markdownlivepreview.com/ "Markdown Live Preview")
